@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: whoami-container
-        image: emilevauge/whoami
+        image: containous/whoami

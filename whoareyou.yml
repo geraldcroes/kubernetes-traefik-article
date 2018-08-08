@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: whoareyou-container
-        image: emilevauge/whoami
+        image: containous/whoami
 ---
 apiVersion: v1
 kind: Service
